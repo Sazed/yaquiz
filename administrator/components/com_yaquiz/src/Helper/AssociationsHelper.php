@@ -48,7 +48,7 @@ class AssociationsHelper extends AssociationExtensionHelper
 	 *
 	 * @since   __BUMP_VERSION__
 	 */
-	protected $associationsSupport = true;
+	protected $associationsSupport = false;
 
 	/**
 	 * Method to get the associations for a given item.
